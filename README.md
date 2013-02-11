@@ -8,6 +8,8 @@ Whenever you need ...
 * a forum to discuss something
 * a chat room where you can type paragraphs
 
+Fix foo
+
 ... consider Discourse.
 
 
